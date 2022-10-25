@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "levinni a szemetet"
+      "description": "Zárva a lenti kapu, vigyél kulcsot is"
+    },
+    {
+      "id": 2,
+      "title": "kiteregetni"
+      "description": "gyorsan-gyorsan-gyorsan"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
