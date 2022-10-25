@@ -1,12 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "todos": [
+    { "id": 1, "title": "Todo 1", "description": "levinni a szemetet" },
+    { "id": 2, "title": "Todo 2", "description": "festeni egy tükröt az ajtóra" },
+    { "id": 3, "title": "Todo 3", "description": "felakasztani egy homokórát a szék lábára" }
   ],
   "profile": {
     "name": "typicode"
